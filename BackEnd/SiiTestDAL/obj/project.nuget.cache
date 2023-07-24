@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4fuAn9j350dS9CKCMBwF4gPGVj9/xsSQR2PFdJ5KVKms2py1+X3j9kp5qRbKLzqcNOszz+RcdOvZxkN3xyDPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestDAL\\SiiTestDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmont\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBackEndDotNetCore\\SiiTestBackEndDotNetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBackEndDotNetCore\\SiiTestBackEndDotNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBackEndDotNetCore\\SiiTestBackEndDotNetCore.csproj",
+        "projectName": "SiiTestBackEndDotNetCore",
+        "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBackEndDotNetCore\\SiiTestBackEndDotNetCore.csproj",
+        "packagesPath": "C:\\Users\\gmont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBackEndDotNetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gmont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBLL\\SiiTestBLL.csproj": {
+                "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBLL\\SiiTestBLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBLL\\SiiTestBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBLL\\SiiTestBLL.csproj",
+        "projectName": "SiiTestBLL",
+        "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBLL\\SiiTestBLL.csproj",
+        "packagesPath": "C:\\Users\\gmont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gmont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestDAL\\SiiTestDAL.csproj": {
+                "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestDAL\\SiiTestDAL.csproj"
+              },
+              "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\SiiTestModel.csproj": {
+                "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\SiiTestModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestDAL\\SiiTestDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestDAL\\SiiTestDAL.csproj",
+        "projectName": "SiiTestDAL",
+        "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestDAL\\SiiTestDAL.csproj",
+        "packagesPath": "C:\\Users\\gmont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gmont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\SiiTestModel.csproj": {
+                "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\SiiTestModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\SiiTestModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\SiiTestModel.csproj",
+        "projectName": "SiiTestModel",
+        "projectPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\SiiTestModel.csproj",
+        "packagesPath": "C:\\Users\\gmont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gmont\\OneDrive\\Escritorio\\SII\\BackEnd\\SiiTestModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gmont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

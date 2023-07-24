@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\bin\Debug\net7.0\SiiTestDAL.deps.json
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\bin\Debug\net7.0\SiiTestDAL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\bin\Debug\net7.0\SiiTestDAL.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\bin\Debug\net7.0\SiiTestModel.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\bin\Debug\net7.0\SiiTestModel.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.csproj.AssemblyReference.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.csproj.CopyComplete
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\refint\SiiTestDAL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\SiiTestDAL.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestDAL\obj\Debug\net7.0\ref\SiiTestDAL.dll

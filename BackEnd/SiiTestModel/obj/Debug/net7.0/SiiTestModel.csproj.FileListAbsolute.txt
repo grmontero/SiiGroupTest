@@ -1,0 +1,12 @@
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\bin\Debug\net7.0\SiiTestModel.deps.json
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\bin\Debug\net7.0\SiiTestModel.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\bin\Debug\net7.0\SiiTestModel.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\SiiTestModel.csproj.AssemblyReference.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\SiiTestModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\SiiTestModel.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\SiiTestModel.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\SiiTestModel.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\SiiTestModel.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\refint\SiiTestModel.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\SiiTestModel.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestModel\obj\Debug\net7.0\ref\SiiTestModel.dll

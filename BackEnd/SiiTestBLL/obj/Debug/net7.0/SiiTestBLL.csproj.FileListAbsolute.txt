@@ -1,0 +1,17 @@
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\bin\Debug\net7.0\SiiTestBLL.deps.json
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\bin\Debug\net7.0\SiiTestBLL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\bin\Debug\net7.0\SiiTestBLL.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\bin\Debug\net7.0\SiiTestModel.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\bin\Debug\net7.0\SiiTestModel.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.csproj.AssemblyReference.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.csproj.CopyComplete
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\refint\SiiTestBLL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\SiiTestBLL.pdb
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\obj\Debug\net7.0\ref\SiiTestBLL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\bin\Debug\net7.0\SiiTestDAL.dll
+C:\Users\gmont\OneDrive\Escritorio\SII\BackEnd\SiiTestBLL\bin\Debug\net7.0\SiiTestDAL.pdb

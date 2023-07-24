@@ -1,0 +1,38 @@
+
+<div class="container">
+    <div class="row col-6">
+    <h3>Employees</h3>
+</div>
+<br>
+<div class="row col-6">
+<div class="input-group mb-3">
+    <input [(ngModel)]="searchId" type="text" class="form-control" placeholder="Employee Id" aria-label="Employee Id" aria-describedby="basic-addon2">
+    <div class="input-group-append">
+      <button (click)=" getData()" class="btn btn-outline-secondary" type="button">Search</button>
+    </div>
+  </div>
+</div>
+<table class="table">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">employee_name</th>
+        <th scope="col">employee_salary</th>
+        <th scope="col">employee_age</th>
+        <th scope="col">profile_image</th>
+        <th scope="col">Employee_anual_salary</th>
+        
+      </tr>
+    </thead>
+    <tbody *ngFor="let employee of employees">
+      <tr>
+        <th scope="row">{{employee.id}}</th>
+        <td>{{employee.employee_name}}</td>
+        <td>{{employee.employee_salary}}</td>
+        <td>{{employee.employee_age}}</td>
+        <td>{{employee.profile_image}}</td>
+        <td>{{employee.employee_anual_salary}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
